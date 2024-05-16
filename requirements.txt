@@ -1,0 +1,8 @@
+ipython==8.12.2
+numpy==1.22.3
+scipy==1.10.1
+matplotlib==3.7.4
+deepdiff==6.7.1
+tqdm==4.66.1
+numpy-quaternion
+mindquantum
